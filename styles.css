@@ -21,23 +21,14 @@ html {
     z-index: 0;
     top: 25px;
     left: 10px;
-    overflow-x: hidden;
+    overflow-x: show;
     padding-top: 3vw;
     padding-left: 2vw;
 }
 
 
-.main-title a{
-    font-family: "normalidad-extended", sans-serif;
-    font-weight: 900;
-    font-style: normal;
-    color: black;
-    text-decoration: none;
-}
 
-.main-title a:hover{
-    color: var(--cornflower)
-}
+
 
 #series-header{
     font-family: "normalidad-extended", sans-serif;
@@ -65,10 +56,6 @@ html {
     font-style: normal;
     color: black;
     text-decoration: none;
-}
-
-.nav-menu a:hover{
-    color: var(--cornflower);
 }
 
 .sub-menu{
