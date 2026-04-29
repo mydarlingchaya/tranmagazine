@@ -2,9 +2,6 @@
     --pink: rgba(255, 56, 169, 0.889)
 }
 
-a{color: rgba(255, 56, 169, 0.889)}
-a:visited{color: rgba(255, 56, 169, 0.889)}
-
 html {
     background-color: white;
 }
