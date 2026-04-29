@@ -68,6 +68,11 @@ html {
     font-size: larger;
 }
 
+.submenu-select{
+    font-size: larger;
+    color:rgba(255, 56, 169, 0.889);
+}
+
 .current-page{
     font-family: "normalidad-extended", sans-serif;
     font-weight: 700;
