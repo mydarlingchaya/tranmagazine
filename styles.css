@@ -95,6 +95,31 @@ html {
     max-width: 100%;
     display: inline-block;}
 
+ .grid-layout{
+        display: grid;
+        grid-template-columns: 50% 1fr;
+    }
+    
+ .half-width{
+        width:100%;
+        max-width: 800px;
+    }
+    
+ .full-width{
+        width:100%;
+        max-width: 1600px;
+    }
+.one {
+        grid-column: 1;
+        grid-row: 1;
+    }
+    
+.two {
+        grid-column-start: 2;
+        grid-row: 1;
+    }
+    
+
 /*UNIVERSAL ARTICLE STYLING*/
 
 .article-info {
